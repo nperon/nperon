@@ -78,5 +78,3 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 
 </p>
 
-
-
