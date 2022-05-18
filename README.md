@@ -1,4 +1,4 @@
-# Welcome to Nicolas's Github page
+# Welcome to my Github page
 
 
 <div align="center">
@@ -17,6 +17,9 @@ the Web version 3.0 paradigm.
 We use scalable, distributed, cutting-edge technologies like 
 blockchains based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk), 
 Kafka clusters and the Kubernetes cloud orchestrator.
+
+&nbsp;
+&nbsp;
 
 # Favourite technologies
 
@@ -72,10 +75,17 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
+  <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_128px.png" alt="postman" width="40" height="40"/> 
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 
 </p>
 
+&nbsp;
+&nbsp;
+
+![Banner](linkedin-banner_Plan_de_travail_1.jpg?thumbnail=default&display=thumbnail)
 
