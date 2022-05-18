@@ -60,6 +60,9 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="go" width="40" height="40"/> 
   </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="go" width="40" height="40"/> 
+  </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a>
