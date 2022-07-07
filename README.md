@@ -1,5 +1,5 @@
-# Welcome to my Github page
-
+![Banner](linkedin-banner_Plan_de_travail_1.jpg?thumbnail=default&display=thumbnail)
+## Welcome to my Github page
 
 <div align="center">
   <a href="https://github.com/nperon" target="_blank">
@@ -21,10 +21,7 @@ We use scalable, distributed, cutting-edge technologies like
 blockchains based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk), 
 Kafka clusters and the Kubernetes cloud orchestrator.
 
-&nbsp;
-&nbsp;
-
-# Favourite technologies
+## Favourite technologies
 
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
@@ -99,15 +96,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 
 </p>
 
-&nbsp;
-&nbsp;
-
-![Banner](linkedin-banner_Plan_de_travail_1.jpg?thumbnail=default&display=thumbnail)
-
-&nbsp;
-&nbsp;
-
-### Online projects
+## Online projects
 
 **Médiateur MSA: a web portal for requesting a referral by the mediator of MSA Insurances in line with European Union legislation on mediation** [Demo](https://saisinemediateur.msa.fr/mediateur/ria/#/accueil) Front end: Angular 6, SASS. Back end: Java, Spring. Application is the work result of a 3 to 4 developers team at SQLI offices in Toulouse between May and July 2019.
 
