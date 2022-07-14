@@ -102,4 +102,6 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 
 **Overkill Todo: Minimal Todo List app** [Demo](https://nperon.github.io/overkill-todo/) [Source Code](https://github.com/nperon/overkill-todo) Technologies: Angular 9, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. 
 
+&nbsp;
+&nbsp;
 ![My octocat](octocat-1657811549008.png "My octocat")
