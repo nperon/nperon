@@ -21,7 +21,7 @@ We use scalable, distributed, cutting-edge technologies like
 blockchains based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk), 
 Kafka clusters and the Kubernetes cloud orchestrator.
 
-## Favourite technologies
+## Languages, frameworks and libraries
 
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
@@ -60,6 +60,11 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="go" width="40" height="40"/> 
   </a>
+</p>
+
+## System, tools
+
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
@@ -96,7 +101,6 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-
 </p>
 
 ## Online projects
