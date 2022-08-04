@@ -13,13 +13,16 @@
   </a>
 </div>
 
-I am a fullstack developer with an Open Source mindset. 
+I am a fullstack developer with an Open Source mindset. I am fond of clean coding, 
+test driven development, agile and scrum methodologies. 
+
 I work at [OKP4](http://www.okp4.com) in Toulouse (France). 
 We develop decentralized protocols and applications in line with
 Web version 3.0. 
 We use scalable, distributed, cutting-edge technologies like 
 blockchains based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk), 
 Kafka clusters and the Kubernetes cloud orchestrator.
+
 
 ## Languages, frameworks and libraries
 
