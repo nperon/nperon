@@ -135,4 +135,4 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 &nbsp;
 &nbsp;
 &nbsp;
-![My octocat](./octocat-1657811549008.png =250x)
+![](./octocat-1657811549008.png =250x)
