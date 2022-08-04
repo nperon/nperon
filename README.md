@@ -73,7 +73,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
 </p>
 
-## System, tools
+## System and tools
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
