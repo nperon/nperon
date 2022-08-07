@@ -79,8 +79,16 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 ## System and tools
 
 <p align="center">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://https://kubernetes.io//" target="_blank" rel="noreferrer"> 
+    <img src="https://camo.githubusercontent.com/e2046333bbd304d658f954a536f663f793365a2b2d1f687a6559faa9491c7cc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d69636f6e2e737667" alt="kubernetes" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="max-width: 100%;">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.traefik.io/" target="_blank" rel="noreferrer"> 
@@ -89,10 +97,6 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   &nbsp;&nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
