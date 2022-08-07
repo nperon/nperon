@@ -14,8 +14,7 @@
 </div>
 
 I am a fullstack developer with an Open Source mindset. I am fond of clean coding, 
-SOLID principles, test driven development, design patterns, agile and scrum 
-methodologies. 
+SOLID principles, test driven development, design patterns, agile methodology. 
 
 I work at [OKP4](http://www.okp4.com) in Toulouse (France). 
 We develop decentralized protocols and applications in line with
