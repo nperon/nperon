@@ -116,6 +116,10 @@ Kafka clusters and the Kubernetes cloud orchestrator.
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
+  <a href="https://opensearch.org" target="_blank" rel="noreferrer"> 
+    <img src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" alt="opensearch" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
