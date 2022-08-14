@@ -93,7 +93,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.traefik.io/" target="_blank" rel="noreferrer"> 
