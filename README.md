@@ -49,31 +49,35 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="go" width="40" height="40"/> 
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/05/NodeJS_New_Pantone_medium.png" alt="go" width="40" height="40"/> 
+    <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/05/NodeJS_New_Pantone_medium.png" alt="Node" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="go" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="go" width="40" height="40"/> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" alt="Next" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="go" width="40" height="40"/> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="go" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" width="40" height="40"/> 
   </a>
 </p>
 
