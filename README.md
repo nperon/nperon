@@ -112,6 +112,10 @@ Kafka clusters and the Kubernetes cloud orchestrator.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
+  <a href="https://tendermint.com/core/" target="_blank" rel="noreferrer"> 
+    <img src="https://tendermint.com/core.svg" alt="Tendermint" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
