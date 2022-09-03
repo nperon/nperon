@@ -144,6 +144,10 @@ Kafka clusters and the Kubernetes cloud orchestrator.
     <img src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_128px.png" alt="postman" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg" alt="prometheus" width="40" height="40"/> 
+  </a>
+  &nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
