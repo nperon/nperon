@@ -1,4 +1,3 @@
-![Banner](linkedin-banner_Plan_de_travail_1.jpg?thumbnail=default&display=thumbnail)
 ## Welcome to my Github page
 
 <div align="center">
@@ -17,11 +16,7 @@ I am a fullstack developer with an Open Source mindset. I am fond of clean codin
 [SOLID principles](https://en.wikipedia.org/wiki/SOLID), 
 test driven development, design patterns, agile methodology, CI/CD, native cloud and DevOps. 
 
-I work at [OKP4](http://www.okp4.com) in Toulouse (France). 
-We develop decentralized protocols and applications in line with
-Web version 3.0. 
-We use scalable, distributed, cutting-edge technologies like 
-blockchains based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk), 
+I use scalable, distributed, cutting-edge technologies like 
 Kafka clusters and the Kubernetes cloud orchestrator.
 
 
