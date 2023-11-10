@@ -156,6 +156,3 @@ Kafka clusters and the Kubernetes cloud orchestrator.
 
 &nbsp;
 
-## Certifications
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="058fe3c7-399d-4d8e-9ee0-6b57e5c7c502" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
