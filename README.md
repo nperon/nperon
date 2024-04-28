@@ -63,10 +63,6 @@ Kafka clusters and the Kubernetes cloud orchestrator.
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" alt="Next" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
   </a>
