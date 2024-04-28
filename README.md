@@ -148,6 +148,14 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
 </p>
 
+## Training platform
+
+<a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.codewars.com/users/nperon/badges/large?theme=light" alt="codewars" /> 
+</a>
+
+
+
 ## Online projects
 
 **Médiateur MSA: a web portal for requesting a referral by the mediator of MSA Insurances in line with European Union legislation on mediation** [Demo](https://saisinemediateur.msa.fr/mediateur/ria/#/accueil) Front end: Angular 6, SASS. Back end: Java, Spring. Application is the work result of a 3 to 4 developers team at SQLI offices in Toulouse between May and July 2019.
