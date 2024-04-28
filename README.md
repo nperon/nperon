@@ -88,7 +88,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/e2046333bbd304d658f954a536f663f793365a2b2d1f687a6559faa9491c7cc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d69636f6e2e737667" alt="kubernetes" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="kubernetes" width="40" height="40" style="max-width: 100%;">
   </a>
   &nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> 
