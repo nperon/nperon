@@ -148,11 +148,18 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
 </p>
 
-## Training platforms
+## Coding communities
 
-<a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.codewars.com/users/nperon/badges/large?theme=dark" alt="codewars" /> 
-</a>
+https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg
+<p>
+  <a href="https://stackoverflow.com/users/10363360/nicolas-peron" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" /> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.codewars.com/users/nperon/badges/large?theme=dark" alt="codewars" /> 
+  </a>  
+</p>
 
 
 ## Online projects
