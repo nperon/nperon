@@ -48,7 +48,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/05/NodeJS_New_Pantone_medium.png" alt="Node" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
