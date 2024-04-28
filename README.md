@@ -148,12 +148,11 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
 </p>
 
-## Coding communities
+## Communities
 
-https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg
 <p>
   <a href="https://stackoverflow.com/users/10363360/nicolas-peron" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="100" /> 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> 
