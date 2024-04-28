@@ -140,7 +140,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg" alt="prometheus" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
