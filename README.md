@@ -44,7 +44,7 @@ Kafka clusters and the Kubernetes cloud orchestrator.
   </a>
   &nbsp;&nbsp;
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="Sass" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
