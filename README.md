@@ -14,7 +14,7 @@
 
 I am a full stack developer with an Open Source mindset. I am an adept of software craftmanship, clean
 coding, SOLID principles and Domain Driven Development. I am familiar with scalable and maintainable
-approaches based on microsrvices, event streaming and hexagonal architecture. I use test driven 
+approaches based on microservices, event streaming and hexagonal architecture. I use test driven 
 development, design patterns, DevOps and agile methodology. I am willing to exchange on experience
 developping software especially web, mobile and bloackchain related applications in all industry fields.
 
