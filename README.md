@@ -12,13 +12,11 @@
   </a>
 </div>
 
-I am a fullstack developer with an Open Source mindset. I am fond of clean coding, 
-[SOLID principles](https://en.wikipedia.org/wiki/SOLID), 
-test driven development, design patterns, agile methodology, CI/CD, native cloud and DevOps. 
-
-I use scalable, distributed, cutting-edge technologies like 
-Kafka clusters and the Kubernetes cloud orchestrator.
-
+I am a full stack developer with an Open Source mindset. I am an adept of software craftmanship, clean
+coding, SOLID principles and Domain Driven Development. I am familiar with scalable and maintainable
+approaches based on microsrvices, event streaming and hexagonal architecture. I use test driven 
+development, design patterns, DevOps and agile methodology. I am willing to exchange on experience
+developping software especially web, mobile and bloackchain related applications in all industry fields.
 
 ## Languages, frameworks and libraries
 
