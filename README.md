@@ -144,6 +144,7 @@ developing software especially web, mobile and blockchain related applications i
 
 ## Communities
 
+<p align="center">  
   <a href="https://stackoverflow.com/users/10363360/nicolas-peron" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="200" /> 
   </a>
