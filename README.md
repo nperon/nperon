@@ -144,13 +144,13 @@ developing software especially web, mobile and blockchain related applications i
 
 ## Communities
 
-<p align="center">
   <a href="https://stackoverflow.com/users/10363360/nicolas-peron" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="200" /> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">  
   <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.codewars.com/users/nperon/badges/large?theme=dark" alt="codewars" /> 
+    <img src="https://www.codewars.com/users/nperon/badges/small?theme=light" alt="codewars" /> 
   </a>  
 </p>
 
