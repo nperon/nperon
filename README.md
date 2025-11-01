@@ -72,8 +72,6 @@ developing software especially web, mobile and blockchain related applications i
 
 ## System and tools
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98d30c5e-adc0-4fb8-9f33-2e87342e2719" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
