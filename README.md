@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98d30c5e-adc0-4fb8-9f33-2e87342e2719" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 I am a full stack developer with an Open Source mindset. I am an adept of software craftmanship, clean
 coding, SOLID principles and Domain Driven Development. I am familiar with scalable and maintainable
 approaches based on microservices, event streaming and hexagonal architecture. I use test driven 
