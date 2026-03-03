@@ -152,11 +152,5 @@ developing software especially web, mobile and blockchain related applications i
 </p>
 
 
-## Online projects
-
-**Médiateur MSA: a web portal for requesting a referral by the mediator of MSA Insurances in line with European Union legislation on mediation** [Demo](https://saisinemediateur.msa.fr/mediateur/ria/#/accueil) Front end: Angular 6, SASS. Back end: Java, Spring. Application is the work result of a 3 to 4 developers team at SQLI offices in Toulouse between May and July 2019.
-
-**Overkill Todo: Minimal Todo List app** [Demo](https://nperon.github.io/overkill-todo/) [Source Code](https://github.com/nperon/overkill-todo) Technologies: Angular 9, Angular Material and NgRx. The angular-in-memory-web-api library is used to simulate a real REST API back-end. 
-
 &nbsp;
 
