@@ -12,7 +12,7 @@
   </a>
 </div>
 
-I am a full stack developer with an Open Source mindset. I am an adept of software craftmanship, clean
+I am a full stack developer with an Open Source mindset. I am an adept of software craftsmanship, clean
 coding, SOLID principles and Domain Driven Development. I am familiar with scalable and maintainable
 approaches based on microservices, event streaming and hexagonal architecture. I use test driven 
 development, design patterns, DevOps and agile methodology. I am willing to exchange on experience
@@ -63,10 +63,6 @@ developing software especially web, mobile and blockchain related applications i
   &nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" width="40" height="40"/> 
   </a>
 </p>
 
